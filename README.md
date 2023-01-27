@@ -8,3 +8,4 @@
 
 - [Week 1](./Week1/horizon.md)
 - [Week 2](./Week2/horizon.md)
+- [Week 3](./Week3/horizon.md)

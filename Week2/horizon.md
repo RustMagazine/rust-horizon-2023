@@ -78,7 +78,7 @@ Sigstore 是由开源安全基金会 (OpenSSF) 运行的一个开源项目，它
 
 ## 【热议】什么场景下使用 C 比 Rust 更好？
 
-[该问题]((https://www.reddit.com/r/rust/comments/108z0m4/when_is_c_better_a_better_choice_than_rust/) )来自于 `Reddit/r/rust` 频道。
+[该问题](https://www.reddit.com/r/rust/comments/108z0m4/when_is_c_better_a_better_choice_than_rust/) 来自于 `Reddit/r/rust` 频道。
 
 **一个高赞回答如下：**
 
