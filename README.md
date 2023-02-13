@@ -9,3 +9,6 @@
 - [Week 1](./Week1/horizon.md)
 - [Week 2](./Week2/horizon.md)
 - [Week 3](./Week3/horizon.md)
+- [Week 4](./Week4/horizon.md)
+- [Week 5](./Week5/horizon.md)
+- [Week 6](./Week6/horizon.md)
